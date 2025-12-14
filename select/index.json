@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぜんぶあんたのせい",
+  "base_artist": "CIVILIAN",
+  "createdAt": "2025-12-14T18:02:40.021505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぜんぶあんたのせい",
+      "artist": "CIVILIAN",
+      "has_synced": true,
+      "path": "select/01_ぜんぶあんたのせい_CIVILIAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぜんぶあんたのせい",
+      "artist": "CIVILIAN",
+      "has_synced": false,
+      "path": "select/pl_01_ぜんぶあんたのせい_CIVILIAN.txt"
+    }
+  ]
+}
